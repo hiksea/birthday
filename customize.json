@@ -1,0 +1,23 @@
+{
+  "greeting": "Hi chị",
+  "name": "Kadie",
+  "greetingText": "Đầu tiên, nếu chị vào được đến đây, nghĩa là chị đã mở bức thư ra rồi",
+  "wishText": "Nên chúc mừng sinh nhật chị nhá, dù hơi trễ",
+  "imagePath": "img/anh.png",
+  "text1": "Lúc đầu em đã nghĩ, nên nhắn cho chị kiểu này",
+  "textInChatBox": "Chúc mừng sinh nhật chị Kadie nha,......",
+  "sendButtonLabel": "Gửi",
+  "text2": "Em đã định là chỉ nhắn tin thôi, nhưng mà em nghĩ, chắc chị cũng nhận được nhiều tin nhắn chúc mừng sinh nhật rồi",
+  "text3": "Với lại em tặng quà cũng hơi trễ",
+  "text4": "Nên em nhận ra mình phải làm thứ gì đó thật",
+  "text4Adjective": "bất ngờ",
+  "text5Entry": "Bởi vì,",
+  "text5Content": "Chị xứng đáng nhận được điều đó",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Chúc chị sang tuổi mới đạt được nhiều thành tựu mới, không phải cày deadline tới tận khuya, xinh xắn hơn, và cố gắng tốt nghiệp sớm ha.",
+  "replayText": "Nếu thấy hay, click vô dòng này xem lại nè.",
+  "outroSmiley": ":)"
+}
